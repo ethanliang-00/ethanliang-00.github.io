@@ -2,7 +2,7 @@
 
 Personal academic website of Zhicheng Liang (梁志成).
 
-Website: https://k-coconut.github.io/
+Website: https://ethanliang-00.github.io/
 
 ## Files
 
